@@ -1,0 +1,20 @@
+---sharpe_portfolio-----
+
+               21425
+Returns     0.039821
+Volatility  0.262332
+                  21425
+1802.T Weight  0.983345
+1812.T Weight  0.015222
+1803.T Weight  0.001432
+
+
+---min_variance_port-----
+
+               62505
+Returns     0.023274
+Volatility  0.245790
+                  62505
+1803.T Weight  0.382912
+1802.T Weight  0.343147
+1812.T Weight  0.273941
